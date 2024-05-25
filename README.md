@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **TCS and also exploring on DSA topics**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm in Java**
+- 🌱 I’m currently learning **The powerful combination of Spring Boot and Java fundamentals to build robust and scalable backend applications.**
 
 - 👯 I’m looking to collaborate on **In my GitHub repository, you'll find a collection of my Java backend adventures,I continue to learn, grow, and share the magic of Java backend development.**
 
